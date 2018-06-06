@@ -1,0 +1,36 @@
+{
+    "customers":[
+        {
+            "id": "1",
+            "name":"shiv",
+            "email":"shive@gmail.com",
+            "age":23
+        },
+        {
+            "id": "2",
+            "name":"shive",
+            "email":"shive1@gmail.com",
+            "age":24
+        },
+        {
+            "id": "3",
+            "name":"shives",
+            "email":"shive2@gmail.com",
+            "age":25
+        },
+        {
+            "id": "4",
+            "name":"shivesh",
+            "email":"shive3@gmail.com",
+            "age":26
+        },
+        {
+            "id": "5",
+            "name":"santo",
+            "email":"santo@gmail.com",
+            "age":27
+        }
+
+
+    ]
+}

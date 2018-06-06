@@ -1,0 +1,23 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:server": "nodemon index.js",
+    "json:server": "json-server --watch data.json"
+  },
+  "author": "shivesh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "fish": "0.0.0",
+    "googleapis": "^31.0.2",
+    "graphql": "^0.13.2",
+    "json-server": "^0.13.0",
+    "nodemon": "^1.17.5"
+  }
+}
